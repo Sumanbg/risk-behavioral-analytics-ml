@@ -199,6 +199,14 @@ o	Risk-aware decision-making
 
 3.	Run the notebook top-to-bottom
 
+
+## Future Work
+- Perform hyperparameter tuning to further optimize model performance.
+- Introduce fairness metrics to assess potential demographic bias.
+- Implement model monitoring to detect data drift over time.
+- Explore cost-sensitive learning to better manage false positives and false negatives.
+
+
  
 👤 Author
 
