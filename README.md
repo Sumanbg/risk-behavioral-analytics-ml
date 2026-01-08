@@ -1,12 +1,12 @@
-📊 Machine Learning for Risk & Behavioral Analytics
+## Machine Learning for Risk & Behavioral Analytics
 
-📌 Project Overview
+## Project Overview
 
 This project presents an end-to-end machine learning pipeline for risk prediction and behavioral analytics using a large, structured customer churn dataset.
 The objective is to identify behavioral drivers of churn, benchmark predictive models, simulate risk-scoring use cases, and segment customers based on behavior, while maintaining governance, reproducibility, and responsible AI considerations.
 This is an individual portfolio project, designed to reflect real-world, enterprise-style ML workflows rather than purely academic experimentation.
  
-🎯 Objectives
+## Objectives
 
 •	Build a governed, end-to-end machine learning workflow 
 
@@ -23,7 +23,7 @@ This is an individual portfolio project, designed to reflect real-world, enterpr
 •	Document ethical, bias, and governance considerations 
 
  
-🛠️ Tools & Technologies
+## Tools & Technologies
 
 •	Python
 
@@ -55,7 +55,7 @@ o	matplotlib
 
 o	seaborn
 ________________________________________
-📂 Dataset
+## Dataset
 
 •	Public Customer Churn Dataset (Kaggle)
 
@@ -65,7 +65,7 @@ ________________________________________
 
 The predefined train–test split was preserved throughout the project to simulate real-world deployment conditions and prevent data leakage.
 ________________________________________
-🔄 Methodology
+## Methodology
 
 1️⃣ Data Loading & Exploratory Data Analysis (EDA)
 
@@ -156,7 +156,7 @@ ________________________________________
 •	Behavioral segments were designed to complement predictive risk scores, supporting richer decision-making
 
 ________________________________________
-📊 Key Outcomes
+## Key Outcomes
 
 •	Identified behavioral patterns strongly associated with churn risk
 
@@ -171,7 +171,7 @@ o	Risk-aware decision-making
 •	Built a scalable, reproducible ML pipeline aligned with enterprise expectations
 
  
-⚖️ Ethics, Bias & Governance
+## Ethics, Bias & Governance
 
 •	Maintained strict train–test separation to avoid data leakage
 
@@ -186,12 +186,12 @@ o	Risk-aware decision-making
 •	Documented assumptions and limitations transparently
 
  
-📁 Repository Structure
+Repository Structure
 
 ├── Risk_Behavioral_Analytics_ML.ipynb
 ├── README.md
  
-🚀 How to Run
+## How to Run
 
 1.	Open Risk_Behavioral_Analytics_ML.ipynb in Google Colab or Jupyter
 
@@ -207,8 +207,8 @@ o	Risk-aware decision-making
 - Explore cost-sensitive learning to better manage false positives and false negatives.
 
 
- 
-👤 Author
+
+## Author
 
 Suman Muthukumaran
 
